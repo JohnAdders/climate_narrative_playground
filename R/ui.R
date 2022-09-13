@@ -1,3 +1,4 @@
+#' @export
 ui <- function(){
     fluidPage(
         title = "Climate narrative playground",
